@@ -12,5 +12,7 @@ Jetpack 6.x -- Ubuntu 22
 Ultralytics
 ROS2 Humble
 FAST_LIO
+Nav2
+
 ```
 
